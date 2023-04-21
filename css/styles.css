@@ -1,0 +1,190 @@
+
+body {
+  background-color: #FDE2F3;
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #2A2F4F;
+  font-family: 'Sofia', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin-top: 50px auto o auto;
+}
+
+
+h2 {
+  color: #2A2F4F;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #917FB3;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #2A2F4F;
+  border-width: 4px;
+  height: 0;
+  width: 20%;
+  margin-left: 100px auto;
+  padding-top: 100px;
+}
+
+a {
+  color: #E5BEEC;
+}
+
+.top-container {
+  background-color: #E5BEEC;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #FDE2F3;
+}
+
+.bottom-container {
+  background-color: #917FB3;
+  padding: 20px 0 20px;
+}
+
+.architect {
+  text-decoration: underline;
+}
+.digitalmarketer {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.whale {
+  width: 700px;
+  height: 400px;
+}
+
+/***********middle container***********/
+
+/***********profile***********/
+
+.profile {
+  margin: auto;
+  line-height: 2;
+  padding-bottom: 100px;
+}
+
+.top-pic {
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  width: 15%;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+
+}
+
+
+/***********Skills***********/
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-bottom: 100px;
+  margin-left: auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.architecture {
+  border-radius: 10%;
+  float: left;
+  width: 25%;
+  opacity: 100px;
+  margin-right: 50px;
+}
+
+.marketing {
+  border-radius: 10%;
+  float: right;
+  width: 25%;
+  opacity: 100px;
+  margin-left: 50px;
+}
+
+/***********contact-me***********/
+
+.contact-me {
+  width: 50%;
+  margin: 40px auto 60px;
+  line-height: 2;
+}
+
+.contact-message {
+  width: 70%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 20px;
+   font-weight: 200;
+   padding: 10px;
+   background-color: #917FB3;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #E5BEEC;
+   border: solid #E5BEEC 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.copyright {
+  color: #FDE2F3;
+  font-size: 0.75rem;
+  padding: 20px 0;
+
+}
+
+
+.footer-link {
+  margin: 10px 20px;
+
+}
